@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.mainContent{
+    background-color: #333;
+    padding: 15px;
+}
+.card{
+    background-color: #333;
+}
